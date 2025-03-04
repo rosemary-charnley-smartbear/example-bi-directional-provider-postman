@@ -470,10 +470,5 @@
       }
     }
   },
-  "security": [
-    {
-      "bearerAuth": []
-    }
-  ],
   "tags": []
 }
